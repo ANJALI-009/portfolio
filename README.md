@@ -2,12 +2,6 @@
 
 A modern, responsive portfolio website built with Next.js, showcasing my projects, skills, and experience.
 
-<<<<<<< HEAD
-## 🚀 Live Demo
-
-[View Live Site](https://your-portfolio-url.vercel.app)
-=======
->>>>>>> 6e6187c613f47a29b24a0e30c0daf4e05c12c0a6
 
 ## ✨ Features
 
@@ -25,13 +19,7 @@ A modern, responsive portfolio website built with Next.js, showcasing my project
 - **Deployment**: Vercel
 - **Animations**: Framer Motion
 - **Form Handling**: React Hook Form
-<<<<<<< HEAD
-- **Styling**: Tailwind CSS, CSS Modules
-
-## 🚀 Getting Started
-=======
 - **Styling**: Tailwind CSS, CSS Module
->>>>>>> 6e6187c613f47a29b24a0e30c0daf4e05c12c0a6
 
 ### Prerequisites
 
@@ -49,21 +37,15 @@ A modern, responsive portfolio website built with Next.js, showcasing my project
    ```bash
    cd portfolio
    npm install
-<<<<<<< HEAD
-=======
    # or
    yarn install
->>>>>>> 6e6187c613f47a29b24a0e30c0daf4e05c12c0a6
    ```
 
 3. Run the development server
    ```bash
    npm run dev
-<<<<<<< HEAD
-=======
    # or
    yarn dev
->>>>>>> 6e6187c613f47a29b24a0e30c0daf4e05c12c0a6
    ```
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
@@ -72,13 +54,6 @@ A modern, responsive portfolio website built with Next.js, showcasing my project
 
 ### Environment Variables
 
-<<<<<<< HEAD
-Create a `.env.local` file in the root directory if needed for API keys or other configuration.
-
-### Images Configuration
-
-The project uses Next.js Image Optimization with remote patterns configured in `next.config.js`.
-=======
 Create a `.env.local` file in the root directory:
 
 ```
@@ -102,7 +77,6 @@ images: {
   ],
 }
 ```
->>>>>>> 6e6187c613f47a29b24a0e30c0daf4e05c12c0a6
 
 ## 📝 Project Structure
 
@@ -112,10 +86,7 @@ portfolio/
 ├── pages/            # Next.js pages
 ├── public/           # Static files
 ├── styles/           # Global styles
-<<<<<<< HEAD
-=======
 ├── utils/            # Utility functions
->>>>>>> 6e6187c613f47a29b24a0e30c0daf4e05c12c0a6
 └── next.config.js    # Next.js configuration
 ```
 
@@ -123,16 +94,9 @@ portfolio/
 
 This site is deployed on Vercel. Any push to the main branch will trigger a new deployment.
 
-<<<<<<< HEAD
-## 📞 Contact
-
-Your Name - [your.email@example.com](mailto:your.email@example.com)
-
-Project Link: [https://github.com/yourusername/portfolio](https://github.com/yourusername/portfolio) 
-=======
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
->>>>>>> 6e6187c613f47a29b24a0e30c0daf4e05c12c0a6
+
