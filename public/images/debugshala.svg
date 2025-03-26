@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <g transform="translate(50, 60) scale(0.8)">
+    <!-- Stylized 'd' shape (black part) -->
+    <path d="M0,0 L30,0 C45,0 60,15 60,30 C60,45 45,60 30,60 L0,60 Z" fill="#000000" />
+    <!-- Cutout in the 'd' -->
+    <circle cx="30" cy="30" r="15" fill="white" />
+    <!-- Curved 's' shape (blue part) -->
+    <path d="M60,30 C60,15 75,0 90,0 L120,0 L120,60 L90,60 C75,60 60,45 60,30 Z" fill="#00A4C4" />
+  </g>
+</svg> 
